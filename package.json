@@ -1,0 +1,21 @@
+{
+  "name": "vipul",
+  "version": "1.0.0",
+  "description": "voting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "vipul",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul752/voting-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vipul752/voting-app/issues"
+  },
+  "homepage": "https://github.com/vipul752/voting-app#readme"
+}
